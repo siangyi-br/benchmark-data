@@ -1,0 +1,25 @@
+[WARNING] /home/brai/.opam exists and is not empty
+[ERROR] The compilation of coq-tactician.dev failed at "dune build -p coq-tactician -j 7 @install".
+
+#=== ERROR while compiling coq-tactician.dev ==================================#
+# context              2.2.1 | linux/x86_64 |  | pinned(git+ssh://git@github.com/coq-tactician/coq-tactician#ea5fede0bfeed85643c7bbe18d7becd5243a0164#ea5fede0bfeed85643c7bbe18d7becd5243a0164)
+# path                 ~/tmp/opam-root/bench/.opam-switch/build/coq-tactician.dev
+# command              ~/tmp/opam-root/bench/bin/dune build -p coq-tactician -j 7 @install
+# exit-code            1
+# env-file             /tmp/opam-xxx-537710/coq-tactician-537710-98ed99.env
+# output-file          /tmp/opam-xxx-537710/coq-tactician-537710-98ed99.out
+### output ###
+# [...]
+# Hint: To disable this warning, add the following to your dune-project file:
+# (warnings (deprecated_coq_lang_lt_08 disabled))
+# (cd _build/default/theories && /home/brai/tmp/opam-root/bench/bin/coqdep -I /home/brai/tmp/opam-root/bench/lib/coq/clib -I /home/brai/tmp/opam-root/bench/lib/coq/config -I /home/brai/tmp/opam-root/bench/lib/coq/engine -I /home/brai/tmp/opam-root/bench/lib/coq/gramlib/.pack -I /home/brai/tmp/opam-root/bench/lib/coq/interp -I /home/brai/tmp/opam-root/bench/lib/coq/kernel -I /home/brai/tmp/opam-[...]
+# *** Warning: in file Ltac1/Record.v, declared ML module ltac_plugin has not been found!
+# *** Warning: in file Ltac1/Record.v, declared ML module ground_plugin has not been found!
+# *** Warning: in file Ltac1/Record.v, declared ML module extraction_plugin has not been found!
+# *** Warning: in file Ltac1/Record.v, declared ML module recdef_plugin has not been found!
+# (cd _build/default && /home/brai/tmp/opam-root/bench/bin/ocamlc.opt -w -40 -warn-error -A -g -bin-annot -I coq-shim/.tactician.eobjs/byte -I /home/brai/tmp/opam-root/bench/lib/0install-solver -I /home/brai/tmp/opam-root/bench/lib/astring -I /home/brai/tmp/opam-root/bench/lib/base64 -I /home/brai/tmp/opam-root/bench/lib/bos -I /home/brai/tmp/opam-root/bench/lib/cudf -I /home/brai/tmp/opam-root[...]
+# File "coq-shim/tactician.ml", line 3, characters 5-13:
+# 3 | open Cmdliner
+#          ^^^^^^^^
+# Error: Unbound module Cmdliner
+

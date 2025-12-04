@@ -1,0 +1,236 @@
+Proceed? [y/n] y
+Checking for available remotes: rsync and local, git.
+  - you won't be able to use mercurial repositories unless you install the hg command on your system.
+  - you won't be able to use darcs repositories unless you install the darcs command on your system.
+
+
+<><> Fetching repository information ><><><><><><><><><><><><><><><><><><><><><>
+[coq-core-dev] Initialised
+[custom-archive] Initialised
+[coq-extra-dev] Initialised
+[coq-released] Initialised
+[default] Initialised
+[coq-tactician.dev] synchronised (git+ssh://git@github.com/coq-tactician/coq-tactician#ea5fede0bfeed85643c7bbe18d7becd5243a0164)
+coq-tactician is now pinned to git+ssh://git@github.com/coq-tactician/coq-tactician#ea5fede0bfeed85643c7bbe18d7becd5243a0164 (version dev)
+
+<><> Synchronising pinned packages ><><><><><><><><><><><><><><><><><><><><><><>
+[coq-tactician.dev] synchronised (no changes)
+
+The following actions will be performed:
+=== install 56 packages
+  ∗ 0install-solver       2.18
+  ∗ astring               0.8.5
+  ∗ base-bigarray         base
+  ∗ base-threads          base
+  ∗ base-unix             base
+  ∗ base64                3.5.2
+  ∗ bos                   0.2.1
+  ∗ cmdliner              2.1.0
+  ∗ conf-c++              1.0
+  ∗ conf-findutils        1
+  ∗ conf-git              1.1
+  ∗ coq                   8.11.dev     [required by coq-tactician]
+  ∗ coq-tactician         dev (pinned)
+  ∗ cppo                  1.8.0
+  ∗ csexp                 1.5.2
+  ∗ cudf                  0.10
+  ∗ dose3                 7.0.0
+  ∗ dune                  3.20.2
+  ∗ dune-private-libs     3.20.2
+  ∗ dune-site             3.20.2
+  ∗ dyn                   3.20.2
+  ∗ extlib                1.8.0
+  ∗ fmt                   0.11.0
+  ∗ fpath                 0.7.3
+  ∗ jsonm                 1.0.2
+  ∗ logs                  0.8.0
+  ∗ mccs                  1.1+19
+  ∗ num                   1.6
+  ∗ ocaml                 4.12.1
+  ∗ ocaml-base-compiler   4.12.1
+  ∗ ocaml-config          2
+  ∗ ocaml-options-vanilla 1
+  ∗ ocamlbuild            0.16.1
+  ∗ ocamlfind             1.9.8
+  ∗ ocamlgraph            2.2.0
+  ∗ opam-0install-cudf    0.5.0
+  ∗ opam-client           2.5.0
+  ∗ opam-core             2.5.0
+  ∗ opam-file-format      2.1.6
+  ∗ opam-format           2.5.0
+  ∗ opam-repository       2.5.0
+  ∗ opam-solver           2.5.0
+  ∗ opam-state            2.5.0
+  ∗ ordering              3.20.2
+  ∗ patch                 3.1.0
+  ∗ pp                    2.0.0
+  ∗ re                    1.12.0
+  ∗ rresult               0.7.0
+  ∗ seq                   base
+  ∗ sha                   1.15.4
+  ∗ spdx_licenses         1.4.0
+  ∗ stdlib-shims          0.3.0
+  ∗ stdune                3.20.2
+  ∗ swhid_core            0.1
+  ∗ topkg                 1.1.1
+  ∗ uutf                  1.0.4
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+∗ installed base-bigarray.base
+∗ installed base-threads.base
+∗ installed base-unix.base
+⬇ retrieved base64.3.5.2  (https://opam.ocaml.org/cache)
+⬇ retrieved astring.0.8.5  (https://opam.ocaml.org/cache)
+⬇ retrieved bos.0.2.1  (https://opam.ocaml.org/cache)
+∗ installed conf-c++.1.0
+∗ installed conf-findutils.1
+∗ installed conf-git.1.1
+⬇ retrieved 0install-solver.2.18  (https://opam.ocaml.org/cache)
+⬇ retrieved cmdliner.2.1.0  (https://opam.ocaml.org/cache)
+⬇ retrieved cppo.1.8.0  (https://opam.ocaml.org/cache)
+⬇ retrieved csexp.1.5.2  (https://opam.ocaml.org/cache)
+⬇ retrieved coq-tactician.dev  (no changes)
+⬇ retrieved cudf.0.10  (https://opam.ocaml.org/cache)
+⬇ retrieved dose3.7.0.0  (https://opam.ocaml.org/cache)
+⬇ retrieved dune.3.20.2, dune-private-libs.3.20.2, dune-site.3.20.2, dyn.3.20.2, ordering.3.20.2, stdune.3.20.2  (https://opam.ocaml.org/cache)
+⬇ retrieved extlib.1.8.0  (https://opam.ocaml.org/cache)
+⬇ retrieved fmt.0.11.0  (https://opam.ocaml.org/cache)
+⬇ retrieved fpath.0.7.3  (https://opam.ocaml.org/cache)
+⬇ retrieved jsonm.1.0.2  (https://opam.ocaml.org/cache)
+⬇ retrieved logs.0.8.0  (https://opam.ocaml.org/cache)
+⬇ retrieved num.1.6  (https://opam.ocaml.org/cache)
+⬇ retrieved mccs.1.1+19  (https://opam.ocaml.org/cache)
+⬇ retrieved ocaml-config.2  (2 extra sources)
+⬇ retrieved ocaml-config.2  (2 extra sources)
+∗ installed ocaml-options-vanilla.1
+⬇ retrieved ocamlbuild.0.16.1  (https://opam.ocaml.org/cache)
+⬇ retrieved ocaml-base-compiler.4.12.1  (https://opam.ocaml.org/cache)
+⬇ retrieved ocamlfind.1.9.8  (https://opam.ocaml.org/cache)
+⬇ retrieved opam-0install-cudf.0.5.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ocamlgraph.2.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved opam-file-format.2.1.6  (https://opam.ocaml.org/cache)
+⬇ retrieved opam-client.2.5.0, opam-core.2.5.0, opam-format.2.5.0, opam-repository.2.5.0, opam-solver.2.5.0, opam-state.2.5.0  (https://opam.ocaml.org/cache)
+⬇ retrieved patch.3.1.0  (https://opam.ocaml.org/cache)
+⬇ retrieved pp.2.0.0  (https://opam.ocaml.org/cache)
+⬇ retrieved rresult.0.7.0  (https://opam.ocaml.org/cache)
+⬇ retrieved re.1.12.0  (https://opam.ocaml.org/cache)
+⬇ retrieved sha.1.15.4  (https://opam.ocaml.org/cache)
+⬇ retrieved seq.base  (2 extra sources)
+⬇ retrieved seq.base  (2 extra sources)
+⬇ retrieved stdlib-shims.0.3.0  (https://opam.ocaml.org/cache)
+⬇ retrieved spdx_licenses.1.4.0  (https://opam.ocaml.org/cache)
+⬇ retrieved swhid_core.0.1  (https://opam.ocaml.org/cache)
+⬇ retrieved topkg.1.1.1  (https://opam.ocaml.org/cache)
+⬇ retrieved uutf.1.0.4  (https://opam.ocaml.org/cache)
+⬇ retrieved coq.8.11.dev  (git+https://github.com/LasseBlaauwbroek/coq.git#v8.11-tactician)
+∗ installed ocaml-base-compiler.4.12.1
+∗ installed ocaml-config.2
+∗ installed ocaml.4.12.1
+∗ installed seq.base
+∗ installed num.1.6
+∗ installed ocamlfind.1.9.8
+∗ installed cmdliner.2.1.0
+∗ installed ocamlbuild.0.16.1
+∗ installed topkg.1.1.1
+∗ installed rresult.0.7.0
+∗ installed uutf.1.0.4
+∗ installed fmt.0.11.0
+∗ installed astring.0.8.5
+∗ installed jsonm.1.0.2
+∗ installed fpath.0.7.3
+∗ installed logs.0.8.0
+∗ installed bos.0.2.1
+∗ installed dune.3.20.2
+∗ installed csexp.1.5.2
+∗ installed base64.3.5.2
+∗ installed 0install-solver.2.18
+∗ installed opam-file-format.2.1.6
+∗ installed patch.3.1.0
+∗ installed pp.2.0.0
+∗ installed stdlib-shims.0.3.0
+∗ installed cppo.1.8.0
+∗ installed spdx_licenses.1.4.0
+∗ installed ordering.3.20.2
+∗ installed swhid_core.0.1
+∗ installed re.1.12.0
+∗ installed sha.1.15.4
+∗ installed extlib.1.8.0
+∗ installed dyn.3.20.2
+∗ installed ocamlgraph.2.2.0
+∗ installed cudf.0.10
+∗ installed opam-0install-cudf.0.5.0
+∗ installed dose3.7.0.0
+∗ installed stdune.3.20.2
+∗ installed opam-core.2.5.0
+∗ installed mccs.1.1+19
+∗ installed dune-private-libs.3.20.2
+∗ installed dune-site.3.20.2
+∗ installed opam-format.2.5.0
+∗ installed opam-repository.2.5.0
+∗ installed opam-solver.2.5.0
+∗ installed opam-state.2.5.0
+∗ installed opam-client.2.5.0
+∗ installed coq.8.11.dev
+
+
+<><> Error report <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+┌─ The following actions failed
+│ λ build coq-tactician dev
+└─ 
+┌─ The following changes have been performed
+│ ∗ install 0install-solver       2.18
+│ ∗ install astring               0.8.5
+│ ∗ install base-bigarray         base
+│ ∗ install base-threads          base
+│ ∗ install base-unix             base
+│ ∗ install base64                3.5.2
+│ ∗ install bos                   0.2.1
+│ ∗ install cmdliner              2.1.0
+│ ∗ install conf-c++              1.0
+│ ∗ install conf-findutils        1
+│ ∗ install conf-git              1.1
+│ ∗ install coq                   8.11.dev
+│ ∗ install cppo                  1.8.0
+│ ∗ install csexp                 1.5.2
+│ ∗ install cudf                  0.10
+│ ∗ install dose3                 7.0.0
+│ ∗ install dune                  3.20.2
+│ ∗ install dune-private-libs     3.20.2
+│ ∗ install dune-site             3.20.2
+│ ∗ install dyn                   3.20.2
+│ ∗ install extlib                1.8.0
+│ ∗ install fmt                   0.11.0
+│ ∗ install fpath                 0.7.3
+│ ∗ install jsonm                 1.0.2
+│ ∗ install logs                  0.8.0
+│ ∗ install mccs                  1.1+19
+│ ∗ install num                   1.6
+│ ∗ install ocaml                 4.12.1
+│ ∗ install ocaml-base-compiler   4.12.1
+│ ∗ install ocaml-config          2
+│ ∗ install ocaml-options-vanilla 1
+│ ∗ install ocamlbuild            0.16.1
+│ ∗ install ocamlfind             1.9.8
+│ ∗ install ocamlgraph            2.2.0
+│ ∗ install opam-0install-cudf    0.5.0
+│ ∗ install opam-client           2.5.0
+│ ∗ install opam-core             2.5.0
+│ ∗ install opam-file-format      2.1.6
+│ ∗ install opam-format           2.5.0
+│ ∗ install opam-repository       2.5.0
+│ ∗ install opam-solver           2.5.0
+│ ∗ install opam-state            2.5.0
+│ ∗ install ordering              3.20.2
+│ ∗ install patch                 3.1.0
+│ ∗ install pp                    2.0.0
+│ ∗ install re                    1.12.0
+│ ∗ install rresult               0.7.0
+│ ∗ install seq                   base
+│ ∗ install sha                   1.15.4
+│ ∗ install spdx_licenses         1.4.0
+│ ∗ install stdlib-shims          0.3.0
+│ ∗ install stdune                3.20.2
+│ ∗ install swhid_core            0.1
+│ ∗ install topkg                 1.1.1
+│ ∗ install uutf                  1.0.4
+└─ 
