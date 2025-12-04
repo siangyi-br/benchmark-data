@@ -5,21 +5,21 @@
 
 #=== ERROR while compiling coq-tactician.8.11.dev =============================#
 # context              2.2.1 | linux/x86_64 |  | pinned(git+https://github.com/coq-tactician/coq-tactician.git#9224b136ee7823d4776301035d9455f56c8c16b1#9224b136ee7823d4776301035d9455f56c8c16b1)
-# path                 /tmp/tactician.tmp.rlv1Af/opam-root/bench/.opam-switch/build/coq-tactician.8.11.dev
-# command              /tmp/tactician.tmp.rlv1Af/opam-root/bench/bin/dune build -p coq-tactician -j 7 @install
+# path                 /tmp/tactician.tmp.OUIbDs/opam-root/bench/.opam-switch/build/coq-tactician.8.11.dev
+# command              /tmp/tactician.tmp.OUIbDs/opam-root/bench/bin/dune build -p coq-tactician -j 7 @install
 # exit-code            1
-# env-file             /tmp/opam-xxx-308811/coq-tactician-308811-fa1eb3.env
-# output-file          /tmp/opam-xxx-308811/coq-tactician-308811-fa1eb3.out
+# env-file             /tmp/opam-xxx-384593/coq-tactician-384593-0528df.env
+# output-file          /tmp/opam-xxx-384593/coq-tactician-384593-0528df.out
 ### output ###
 # [...]
 # Hint: To disable this warning, add the following to your dune-project file:
 # (warnings (deprecated_coq_lang_lt_08 disabled))
-# (cd _build/default/theories && /tmp/tactician.tmp.rlv1Af/opam-root/bench/bin/coqdep -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/coq/clib -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/coq/config -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/coq/engine -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/coq/gramlib/.pack -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/coq/interp -I /tm[...]
+# (cd _build/default/theories && /tmp/tactician.tmp.OUIbDs/opam-root/bench/bin/coqdep -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/coq/clib -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/coq/config -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/coq/engine -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/coq/gramlib/.pack -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/coq/interp -I /tm[...]
 # *** Warning: in file Ltac1/Record.v, declared ML module ltac_plugin has not been found!
 # *** Warning: in file Ltac1/Record.v, declared ML module ground_plugin has not been found!
 # *** Warning: in file Ltac1/Record.v, declared ML module extraction_plugin has not been found!
 # *** Warning: in file Ltac1/Record.v, declared ML module recdef_plugin has not been found!
-# (cd _build/default && /tmp/tactician.tmp.rlv1Af/opam-root/bench/bin/ocamlc.opt -w -40 -warn-error -A -g -bin-annot -I coq-shim/.tactician.eobjs/byte -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/0install-solver -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/astring -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/base64 -I /tmp/tactician.tmp.rlv1Af/opam-root/bench/lib/bos -I /tmp/tactici[...]
+# (cd _build/default && /tmp/tactician.tmp.OUIbDs/opam-root/bench/bin/ocamlc.opt -w -40 -warn-error -A -g -bin-annot -I coq-shim/.tactician.eobjs/byte -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/0install-solver -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/astring -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/base64 -I /tmp/tactician.tmp.OUIbDs/opam-root/bench/lib/bos -I /tmp/tactici[...]
 # File "coq-shim/tactician.ml", line 3, characters 5-13:
 # 3 | open Cmdliner
 #          ^^^^^^^^
