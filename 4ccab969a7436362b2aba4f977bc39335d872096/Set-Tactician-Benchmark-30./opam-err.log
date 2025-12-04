@@ -10,8 +10,8 @@
 # path                 ~/tmp/opam-root/bench/.opam-switch/build/coq-tactician.8.11.dev
 # command              ~/tmp/opam-root/bench/bin/dune build -p coq-tactician -j 7 @install
 # exit-code            1
-# env-file             ~/tmp/opam-root/log/coq-tactician-83027-a8fedf.env
-# output-file          ~/tmp/opam-root/log/coq-tactician-83027-a8fedf.out
+# env-file             ~/tmp/opam-root/log/coq-tactician-84815-488bc1.env
+# output-file          ~/tmp/opam-root/log/coq-tactician-84815-488bc1.out
 ### output ###
 # [...]
 # Hint: To disable this warning, add the following to your dune-project file:
