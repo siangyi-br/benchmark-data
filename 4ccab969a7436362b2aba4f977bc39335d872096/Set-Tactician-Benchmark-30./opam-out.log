@@ -7,8 +7,8 @@ Checking for available remotes: rsync and local, git.
 <><> Fetching repository information ><><><><><><><><><><><><><><><><><><><><><>
 [coq-core-dev] Initialised
 [coq-extra-dev] Initialised
-[custom-archive] Initialised
 [coq-released] Initialised
+[custom-archive] Initialised
 [default] Initialised
 [coq-tactician-api.15.0+8.11] synchronised (git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096)
 The following additional pinnings are required by coq-tactician-api.15.0+8.11:
@@ -17,4 +17,504 @@ Pin and install them? [y/n] y
 [coq-tactician.8.11.dev] synchronised (no changes)
 coq-tactician is now pinned to git+https://github.com/coq-tactician/coq-tactician.git#9224b136ee7823d4776301035d9455f56c8c16b1 (version 8.11.dev)
 coq-tactician-api is now pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096 (version 15.0+8.11)
-coq is now pinned to version 8.12.2
+coq is now pinned to version 8.11.2
+
+<><> Synchronising pinned packages ><><><><><><><><><><><><><><><><><><><><><><>
+[coq-tactician.8.11.dev] synchronised (no changes)
+[coq-tactician-api.15.0+8.11] synchronised (no changes)
+
+The following actions will be performed:
+=== install 128 packages
+  ∗ 0install-solver     2.18
+  ∗ angstrom            0.16.1
+  ∗ asetmap             0.8.1
+  ∗ asn1-combinators    0.2.6
+  ∗ astring             0.8.5
+  ∗ base                v0.15.1
+  ∗ base-bigarray       base
+  ∗ base-bytes          base
+  ∗ base-threads        base
+  ∗ base-unix           base
+  ∗ base64              3.5.2
+  ∗ bigarray-compat     1.1.0
+  ∗ bigstringaf         0.10.0
+  ∗ bos                 0.2.1
+  ∗ capnp               3.6.0
+  ∗ capnp-rpc           1.2.2
+  ∗ capnp-rpc-lwt       1.2.2
+  ∗ capnp-rpc-net       1.2.2
+  ∗ capnp-rpc-unix      1.2.2
+  ∗ cmdliner            1.3.0
+  ∗ conf-c++            1.0
+  ∗ conf-capnproto      2
+  ∗ conf-findutils      1
+  ∗ conf-git            1.1
+  ∗ conf-gmp            5
+  ∗ conf-gmp-powm-sec   4
+  ∗ conf-pkg-config     4
+  ∗ conf-xxhash         1
+  ∗ coq                 8.11.2 (pinned)    [required by coq-tactician, coq-tactician-api]
+  ∗ coq-tactician       8.11.dev (pinned)
+  ∗ coq-tactician-api   15.0+8.11 (pinned)
+  ∗ cppo                1.8.0
+  ∗ csexp               1.5.2
+  ∗ cstruct             6.2.0
+  ∗ cstruct-lwt         6.2.0
+  ∗ cstruct-sexp        6.2.0
+  ∗ ctypes              0.24.0
+  ∗ cudf                0.10
+  ∗ domain-name         0.5.0
+  ∗ dose3               7.0.0
+  ∗ dune                3.20.2
+  ∗ dune-configurator   3.20.2
+  ∗ dune-private-libs   3.20.2
+  ∗ dune-site           3.20.2
+  ∗ duration            0.2.1
+  ∗ dyn                 3.20.2
+  ∗ eqaf                0.9
+  ∗ extlib              1.8.0
+  ∗ extunix             0.4.3
+  ∗ fmt                 0.11.0
+  ∗ fpath               0.7.3
+  ∗ gmap                0.3.0
+  ∗ hkdf                1.0.4 (deprecated)
+  ∗ integers            0.7.0
+  ∗ ipaddr              5.6.1
+  ∗ ipaddr-sexp         5.6.1
+  ∗ jsonm               1.0.2
+  ∗ logs                0.8.0
+  ∗ lwt                 5.1.1
+  ∗ macaddr             5.6.1
+  ∗ mccs                1.1+19
+  ∗ mirage-clock        4.2.0
+  ∗ mirage-crypto       0.10.7
+  ∗ mirage-crypto-ec    0.10.7
+  ∗ mirage-crypto-pk    0.10.7
+  ∗ mirage-crypto-rng   0.10.7
+  ∗ mirage-flow         3.0.0
+  ∗ mirage-kv           6.1.1
+  ∗ mirage-runtime      4.7.0
+  ∗ mmap                1.2.0
+  ∗ mtime               2.1.0
+  ∗ num                 1.6
+  ∗ oasis               0.4.11
+  ∗ ocaml               4.11.2
+  ∗ ocaml-base-compiler 4.11.2
+  ∗ ocaml-compiler-libs v0.12.4
+  ∗ ocaml-config        1
+  ∗ ocaml-syntax-shims  1.0.0
+  ∗ ocamlbuild          0.16.1
+  ∗ ocamlfind           1.9.8
+  ∗ ocamlgraph          2.2.0
+  ∗ ocamlify            0.0.1
+  ∗ ocamlmod            0.0.9
+  ∗ ocplib-endian       1.2
+  ∗ opam-0install-cudf  0.5.0
+  ∗ opam-client         2.5.0
+  ∗ opam-core           2.5.0
+  ∗ opam-file-format    2.1.6
+  ∗ opam-format         2.5.0
+  ∗ opam-repository     2.5.0
+  ∗ opam-solver         2.5.0
+  ∗ opam-state          2.5.0
+  ∗ optint              0.3.0
+  ∗ ordering            3.20.2
+  ∗ parsexp             v0.15.0
+  ∗ patch               3.1.0
+  ∗ pbkdf               1.2.0
+  ∗ pp                  2.0.0
+  ∗ ppx_cstruct         6.2.0
+  ∗ ppx_derivers        1.2.1
+  ∗ ppx_deriving        6.0.3
+  ∗ ppx_sexp_conv       v0.15.1
+  ∗ ppxlib              0.35.0
+  ∗ prometheus          1.2
+  ∗ ptime               1.2.0
+  ∗ re                  1.11.0
+  ∗ res                 5.0.2
+  ∗ result              1.5
+  ∗ rresult             0.7.0
+  ∗ seq                 base
+  ∗ sexplib             v0.15.1
+  ∗ sexplib0            v0.15.1
+  ∗ sha                 1.15.4
+  ∗ spdx_licenses       1.4.0
+  ∗ stdint              0.7.2
+  ∗ stdio               v0.15.0
+  ∗ stdlib-shims        0.3.0
+  ∗ stdune              3.20.2
+  ∗ stringext           1.6.0
+  ∗ swhid_core          0.1
+  ∗ tls                 0.15.4
+  ∗ tls-mirage          0.15.4
+  ∗ topkg               1.1.1
+  ∗ uri                 4.4.0
+  ∗ uutf                1.0.4
+  ∗ x509                0.16.5
+  ∗ xxhash              0.1
+  ∗ zarith              1.14
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+⬇ retrieved asetmap.0.8.1  (https://opam.ocaml.org/cache)
+⬇ retrieved angstrom.0.16.1  (https://opam.ocaml.org/cache)
+⬇ retrieved asn1-combinators.0.2.6  (https://opam.ocaml.org/cache)
+⬇ retrieved 0install-solver.2.18  (https://opam.ocaml.org/cache)
+∗ installed base-bigarray.base
+∗ installed base-threads.base
+∗ installed base-unix.base
+⬇ retrieved astring.0.8.5  (https://opam.ocaml.org/cache)
+⬇ retrieved base64.3.5.2  (https://opam.ocaml.org/cache)
+⬇ retrieved bigarray-compat.1.1.0  (https://opam.ocaml.org/cache)
+⬇ retrieved bigstringaf.0.10.0  (https://opam.ocaml.org/cache)
+⬇ retrieved bos.0.2.1  (https://opam.ocaml.org/cache)
+⬇ retrieved base.v0.15.1  (https://opam.ocaml.org/cache)
+⬇ retrieved capnp.3.6.0  (https://opam.ocaml.org/cache)
+∗ installed conf-c++.1.0
+∗ installed conf-capnproto.2
+∗ installed conf-findutils.1
+∗ installed conf-git.1.1
+⬇ retrieved cmdliner.1.3.0  (https://opam.ocaml.org/cache)
+⬇ retrieved conf-gmp.5  (https://opam.ocaml.org/cache)
+∗ installed conf-pkg-config.4
+∗ installed conf-gmp.5
+∗ installed conf-xxhash.1
+⬇ retrieved capnp-rpc.1.2.2, capnp-rpc-lwt.1.2.2, capnp-rpc-net.1.2.2, capnp-rpc-unix.1.2.2  (https://opam.ocaml.org/cache)
+⬇ retrieved conf-gmp-powm-sec.4  (https://opam.ocaml.org/cache)
+∗ installed conf-gmp-powm-sec.4
+⬇ retrieved coq-tactician.8.11.dev  (no changes)
+⬇ retrieved cppo.1.8.0  (https://opam.ocaml.org/cache)
+⬇ retrieved csexp.1.5.2  (https://opam.ocaml.org/cache)
+⬇ retrieved coq-tactician-api.15.0+8.11  (no changes)
+⬇ retrieved coq.8.11.2  (https://opam.ocaml.org/cache)
+⬇ retrieved cstruct.6.2.0, cstruct-lwt.6.2.0, cstruct-sexp.6.2.0, ppx_cstruct.6.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ctypes.0.24.0  (https://opam.ocaml.org/cache)
+⬇ retrieved domain-name.0.5.0  (https://opam.ocaml.org/cache)
+⬇ retrieved cudf.0.10  (https://opam.ocaml.org/cache)
+⬇ retrieved duration.0.2.1  (https://opam.ocaml.org/cache)
+⬇ retrieved eqaf.0.9  (https://opam.ocaml.org/cache)
+⬇ retrieved dose3.7.0.0  (https://opam.ocaml.org/cache)
+⬇ retrieved dune.3.20.2, dune-configurator.3.20.2, dune-private-libs.3.20.2, dune-site.3.20.2, dyn.3.20.2, ordering.3.20.2, stdune.3.20.2  (https://opam.ocaml.org/cache)
+⬇ retrieved extlib.1.8.0  (https://opam.ocaml.org/cache)
+⬇ retrieved extunix.0.4.3  (https://opam.ocaml.org/cache)
+⬇ retrieved gmap.0.3.0  (https://opam.ocaml.org/cache)
+⬇ retrieved fpath.0.7.3  (https://opam.ocaml.org/cache)
+⬇ retrieved fmt.0.11.0  (https://opam.ocaml.org/cache)
+⬇ retrieved hkdf.1.0.4  (https://opam.ocaml.org/cache)
+⬇ retrieved integers.0.7.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ipaddr.5.6.1, ipaddr-sexp.5.6.1, macaddr.5.6.1  (https://opam.ocaml.org/cache)
+⬇ retrieved jsonm.1.0.2  (https://opam.ocaml.org/cache)
+⬇ retrieved logs.0.8.0  (https://opam.ocaml.org/cache)
+⬇ retrieved mirage-clock.4.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved lwt.5.1.1  (https://opam.ocaml.org/cache)
+⬇ retrieved mccs.1.1+19  (https://opam.ocaml.org/cache)
+⬇ retrieved mirage-flow.3.0.0  (https://opam.ocaml.org/cache)
+⬇ retrieved mirage-kv.6.1.1  (https://opam.ocaml.org/cache)
+⬇ retrieved mirage-crypto.0.10.7, mirage-crypto-ec.0.10.7, mirage-crypto-pk.0.10.7, mirage-crypto-rng.0.10.7  (https://opam.ocaml.org/cache)
+⬇ retrieved mmap.1.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved mirage-runtime.4.7.0  (https://opam.ocaml.org/cache)
+⬇ retrieved mtime.2.1.0  (https://opam.ocaml.org/cache)
+⬇ retrieved num.1.6  (https://opam.ocaml.org/cache)
+⬇ retrieved ocaml-compiler-libs.v0.12.4  (https://opam.ocaml.org/cache)
+⬇ retrieved oasis.0.4.11  (https://opam.ocaml.org/cache)
+⬇ retrieved ocaml-config.1  (2 extra sources)
+⬇ retrieved ocaml-config.1  (2 extra sources)
+⬇ retrieved ocaml-syntax-shims.1.0.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ocamlbuild.0.16.1  (https://opam.ocaml.org/cache)
+⬇ retrieved ocamlfind.1.9.8  (https://opam.ocaml.org/cache)
+⬇ retrieved ocaml-base-compiler.4.11.2  (https://opam.ocaml.org/cache)
+⬇ retrieved ocamlgraph.2.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ocamlify.0.0.1  (https://opam.ocaml.org/cache)
+⬇ retrieved ocplib-endian.1.2  (https://opam.ocaml.org/cache)
+⬇ retrieved opam-0install-cudf.0.5.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ocamlmod.0.0.9  (https://opam.ocaml.org/cache)
+⬇ retrieved opam-file-format.2.1.6  (https://opam.ocaml.org/cache)
+⬇ retrieved optint.0.3.0  (https://opam.ocaml.org/cache)
+⬇ retrieved opam-client.2.5.0, opam-core.2.5.0, opam-format.2.5.0, opam-repository.2.5.0, opam-solver.2.5.0, opam-state.2.5.0  (https://opam.ocaml.org/cache)
+⬇ retrieved parsexp.v0.15.0  (https://opam.ocaml.org/cache)
+⬇ retrieved patch.3.1.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ppx_derivers.1.2.1  (https://opam.ocaml.org/cache)
+⬇ retrieved pbkdf.1.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved pp.2.0.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ppx_sexp_conv.v0.15.1  (https://opam.ocaml.org/cache)
+⬇ retrieved ppx_deriving.6.0.3  (https://opam.ocaml.org/cache)
+⬇ retrieved prometheus.1.2  (https://opam.ocaml.org/cache)
+⬇ retrieved ppxlib.0.35.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ptime.1.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved result.1.5  (https://opam.ocaml.org/cache)
+⬇ retrieved res.5.0.2  (https://opam.ocaml.org/cache)
+⬇ retrieved re.1.11.0  (https://opam.ocaml.org/cache)
+⬇ retrieved rresult.0.7.0  (https://opam.ocaml.org/cache)
+⬇ retrieved sexplib0.v0.15.1  (https://opam.ocaml.org/cache)
+⬇ retrieved sexplib.v0.15.1  (https://opam.ocaml.org/cache)
+⬇ retrieved seq.base  (2 extra sources)
+⬇ retrieved seq.base  (2 extra sources)
+⬇ retrieved sha.1.15.4  (https://opam.ocaml.org/cache)
+⬇ retrieved stdint.0.7.2  (https://opam.ocaml.org/cache)
+⬇ retrieved spdx_licenses.1.4.0  (https://opam.ocaml.org/cache)
+⬇ retrieved stdio.v0.15.0  (https://opam.ocaml.org/cache)
+⬇ retrieved stdlib-shims.0.3.0  (https://opam.ocaml.org/cache)
+⬇ retrieved stringext.1.6.0  (https://opam.ocaml.org/cache)
+⬇ retrieved swhid_core.0.1  (https://opam.ocaml.org/cache)
+⬇ retrieved topkg.1.1.1  (https://opam.ocaml.org/cache)
+⬇ retrieved tls.0.15.4, tls-mirage.0.15.4  (https://opam.ocaml.org/cache)
+⬇ retrieved uutf.1.0.4  (https://opam.ocaml.org/cache)
+⬇ retrieved uri.4.4.0  (https://opam.ocaml.org/cache)
+⬇ retrieved xxhash.0.1  (https://opam.ocaml.org/cache)
+⬇ retrieved x509.0.16.5  (https://opam.ocaml.org/cache)
+⬇ retrieved zarith.1.14  (https://opam.ocaml.org/cache)
+∗ installed ocaml-base-compiler.4.11.2
+∗ installed ocaml-config.1
+∗ installed ocaml.4.11.2
+∗ installed seq.base
+∗ installed num.1.6
+∗ installed cmdliner.1.3.0
+∗ installed ocamlfind.1.9.8
+∗ installed base-bytes.base
+∗ installed ocamlbuild.0.16.1
+∗ installed zarith.1.14
+∗ installed ocamlify.0.0.1
+∗ installed ocamlmod.0.0.9
+∗ installed topkg.1.1.1
+∗ installed asetmap.0.8.1
+∗ installed mtime.2.1.0
+∗ installed fmt.0.11.0
+∗ installed astring.0.8.5
+∗ installed ptime.1.2.0
+∗ installed rresult.0.7.0
+∗ installed uutf.1.0.4
+∗ installed fpath.0.7.3
+∗ installed jsonm.1.0.2
+∗ installed dune.3.20.2
+∗ installed bigarray-compat.1.1.0
+∗ installed base64.3.5.2
+∗ installed csexp.1.5.2
+∗ installed duration.0.2.1
+∗ installed 0install-solver.2.18
+∗ installed cppo.1.8.0
+∗ installed cstruct.6.2.0
+∗ installed domain-name.0.5.0
+∗ installed gmap.0.3.0
+∗ installed macaddr.5.6.1
+∗ installed mirage-clock.4.2.0
+∗ installed asn1-combinators.0.2.6
+∗ installed extlib.1.8.0
+∗ installed eqaf.0.9
+∗ installed dune-configurator.3.20.2
+∗ installed mmap.1.2.0
+∗ installed ipaddr.5.6.1
+∗ installed ocaml-syntax-shims.1.0.0
+∗ installed bigstringaf.0.10.0
+∗ installed ocaml-compiler-libs.v0.12.4
+∗ installed cudf.0.10
+∗ installed ocplib-endian.1.2
+∗ installed angstrom.0.16.1
+∗ installed opam-0install-cudf.0.5.0
+∗ installed opam-file-format.2.1.6
+∗ installed optint.0.3.0
+∗ installed patch.3.1.0
+∗ installed pp.2.0.0
+∗ installed ordering.3.20.2
+∗ installed ppx_derivers.1.2.1
+∗ installed ocamlgraph.2.2.0
+∗ installed re.1.11.0
+∗ installed result.1.5
+∗ installed res.5.0.2
+∗ installed sexplib0.v0.15.1
+∗ installed dyn.3.20.2
+∗ installed spdx_licenses.1.4.0
+∗ installed mccs.1.1+19
+∗ installed stdlib-shims.0.3.0
+∗ installed stdint.0.7.2
+∗ installed dose3.7.0.0
+∗ installed integers.0.7.0
+∗ installed mirage-crypto.0.10.7
+∗ installed oasis.0.4.11
+∗ installed base.v0.15.1
+∗ installed hkdf.1.0.4
+∗ installed pbkdf.1.2.0
+∗ installed sha.1.15.4
+∗ installed stdune.3.20.2
+∗ installed stringext.1.6.0
+∗ installed swhid_core.0.1
+∗ installed stdio.v0.15.0
+∗ installed parsexp.v0.15.0
+∗ installed ctypes.0.24.0
+∗ installed lwt.5.1.1
+∗ installed dune-private-libs.3.20.2
+∗ installed cstruct-lwt.6.2.0
+∗ installed sexplib.v0.15.1
+∗ installed uri.4.4.0
+∗ installed cstruct-sexp.6.2.0
+∗ installed mirage-flow.3.0.0
+∗ installed mirage-kv.6.1.1
+∗ installed dune-site.3.20.2
+∗ installed capnp.3.6.0
+∗ installed prometheus.1.2
+∗ installed logs.0.8.0
+∗ installed mirage-crypto-rng.0.10.7
+∗ installed opam-core.2.5.0
+∗ installed mirage-runtime.4.7.0
+∗ installed capnp-rpc.1.2.2
+∗ installed mirage-crypto-pk.0.10.7
+∗ installed xxhash.0.1
+∗ installed bos.0.2.1
+∗ installed ppxlib.0.35.0
+∗ installed capnp-rpc-lwt.1.2.2
+∗ installed mirage-crypto-ec.0.10.7
+∗ installed ppx_cstruct.6.2.0
+∗ installed opam-format.2.5.0
+∗ installed x509.0.16.5
+∗ installed ppx_deriving.6.0.3
+∗ installed ppx_sexp_conv.v0.15.1
+∗ installed ipaddr-sexp.5.6.1
+∗ installed opam-repository.2.5.0
+∗ installed opam-solver.2.5.0
+∗ installed tls.0.15.4
+∗ installed tls-mirage.0.15.4
+∗ installed extunix.0.4.3
+∗ installed capnp-rpc-net.1.2.2
+∗ installed capnp-rpc-unix.1.2.2
+∗ installed opam-state.2.5.0
+∗ installed opam-client.2.5.0
+∗ installed coq.8.11.2
+
+
+<><> Error report <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+┌─ The following actions failed
+│ λ build coq-tactician 8.11.dev
+└─ 
+┌─ The following changes have been performed (the rest was aborted)
+│ ∗ install 0install-solver     2.18
+│ ∗ install angstrom            0.16.1
+│ ∗ install asetmap             0.8.1
+│ ∗ install asn1-combinators    0.2.6
+│ ∗ install astring             0.8.5
+│ ∗ install base                v0.15.1
+│ ∗ install base-bigarray       base
+│ ∗ install base-bytes          base
+│ ∗ install base-threads        base
+│ ∗ install base-unix           base
+│ ∗ install base64              3.5.2
+│ ∗ install bigarray-compat     1.1.0
+│ ∗ install bigstringaf         0.10.0
+│ ∗ install bos                 0.2.1
+│ ∗ install capnp               3.6.0
+│ ∗ install capnp-rpc           1.2.2
+│ ∗ install capnp-rpc-lwt       1.2.2
+│ ∗ install capnp-rpc-net       1.2.2
+│ ∗ install capnp-rpc-unix      1.2.2
+│ ∗ install cmdliner            1.3.0
+│ ∗ install conf-c++            1.0
+│ ∗ install conf-capnproto      2
+│ ∗ install conf-findutils      1
+│ ∗ install conf-git            1.1
+│ ∗ install conf-gmp            5
+│ ∗ install conf-gmp-powm-sec   4
+│ ∗ install conf-pkg-config     4
+│ ∗ install conf-xxhash         1
+│ ∗ install coq                 8.11.2
+│ ∗ install cppo                1.8.0
+│ ∗ install csexp               1.5.2
+│ ∗ install cstruct             6.2.0
+│ ∗ install cstruct-lwt         6.2.0
+│ ∗ install cstruct-sexp        6.2.0
+│ ∗ install ctypes              0.24.0
+│ ∗ install cudf                0.10
+│ ∗ install domain-name         0.5.0
+│ ∗ install dose3               7.0.0
+│ ∗ install dune                3.20.2
+│ ∗ install dune-configurator   3.20.2
+│ ∗ install dune-private-libs   3.20.2
+│ ∗ install dune-site           3.20.2
+│ ∗ install duration            0.2.1
+│ ∗ install dyn                 3.20.2
+│ ∗ install eqaf                0.9
+│ ∗ install extlib              1.8.0
+│ ∗ install extunix             0.4.3
+│ ∗ install fmt                 0.11.0
+│ ∗ install fpath               0.7.3
+│ ∗ install gmap                0.3.0
+│ ∗ install hkdf                1.0.4
+│ ∗ install integers            0.7.0
+│ ∗ install ipaddr              5.6.1
+│ ∗ install ipaddr-sexp         5.6.1
+│ ∗ install jsonm               1.0.2
+│ ∗ install logs                0.8.0
+│ ∗ install lwt                 5.1.1
+│ ∗ install macaddr             5.6.1
+│ ∗ install mccs                1.1+19
+│ ∗ install mirage-clock        4.2.0
+│ ∗ install mirage-crypto       0.10.7
+│ ∗ install mirage-crypto-ec    0.10.7
+│ ∗ install mirage-crypto-pk    0.10.7
+│ ∗ install mirage-crypto-rng   0.10.7
+│ ∗ install mirage-flow         3.0.0
+│ ∗ install mirage-kv           6.1.1
+│ ∗ install mirage-runtime      4.7.0
+│ ∗ install mmap                1.2.0
+│ ∗ install mtime               2.1.0
+│ ∗ install num                 1.6
+│ ∗ install oasis               0.4.11
+│ ∗ install ocaml               4.11.2
+│ ∗ install ocaml-base-compiler 4.11.2
+│ ∗ install ocaml-compiler-libs v0.12.4
+│ ∗ install ocaml-config        1
+│ ∗ install ocaml-syntax-shims  1.0.0
+│ ∗ install ocamlbuild          0.16.1
+│ ∗ install ocamlfind           1.9.8
+│ ∗ install ocamlgraph          2.2.0
+│ ∗ install ocamlify            0.0.1
+│ ∗ install ocamlmod            0.0.9
+│ ∗ install ocplib-endian       1.2
+│ ∗ install opam-0install-cudf  0.5.0
+│ ∗ install opam-client         2.5.0
+│ ∗ install opam-core           2.5.0
+│ ∗ install opam-file-format    2.1.6
+│ ∗ install opam-format         2.5.0
+│ ∗ install opam-repository     2.5.0
+│ ∗ install opam-solver         2.5.0
+│ ∗ install opam-state          2.5.0
+│ ∗ install optint              0.3.0
+│ ∗ install ordering            3.20.2
+│ ∗ install parsexp             v0.15.0
+│ ∗ install patch               3.1.0
+│ ∗ install pbkdf               1.2.0
+│ ∗ install pp                  2.0.0
+│ ∗ install ppx_cstruct         6.2.0
+│ ∗ install ppx_derivers        1.2.1
+│ ∗ install ppx_deriving        6.0.3
+│ ∗ install ppx_sexp_conv       v0.15.1
+│ ∗ install ppxlib              0.35.0
+│ ∗ install prometheus          1.2
+│ ∗ install ptime               1.2.0
+│ ∗ install re                  1.11.0
+│ ∗ install res                 5.0.2
+│ ∗ install result              1.5
+│ ∗ install rresult             0.7.0
+│ ∗ install seq                 base
+│ ∗ install sexplib             v0.15.1
+│ ∗ install sexplib0            v0.15.1
+│ ∗ install sha                 1.15.4
+│ ∗ install spdx_licenses       1.4.0
+│ ∗ install stdint              0.7.2
+│ ∗ install stdio               v0.15.0
+│ ∗ install stdlib-shims        0.3.0
+│ ∗ install stdune              3.20.2
+│ ∗ install stringext           1.6.0
+│ ∗ install swhid_core          0.1
+│ ∗ install tls                 0.15.4
+│ ∗ install tls-mirage          0.15.4
+│ ∗ install topkg               1.1.1
+│ ∗ install uri                 4.4.0
+│ ∗ install uutf                1.0.4
+│ ∗ install x509                0.16.5
+│ ∗ install xxhash              0.1
+│ ∗ install zarith              1.14
+└─ 
+
+<><> lwt.5.1.1 installed successfully <><><><><><><><><><><><><><><><><><><><><>
+=> Lwt 5.0.0 has made some minor breaking changes. See
+     https://github.com/ocsigen/lwt/issues/584
+
+<><> hkdf.1.0.4 installed successfully ><><><><><><><><><><><><><><><><><><><><>
+=> Note: This package is deprecated.
