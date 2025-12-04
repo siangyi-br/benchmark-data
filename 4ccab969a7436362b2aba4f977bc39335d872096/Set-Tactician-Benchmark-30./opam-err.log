@@ -1,4 +1,6 @@
-[WARNING] /home/brai/.opam exists and is not empty
+[NOTE] coq-tactician-stdlib is not installed.
+
+[NOTE] Package coq-tactician-api is already pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096 (version 15.0+8.11).
 [WARNING] Failed checks on coq-tactician-api package definition from source at git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096:
            warning 68: Missing field 'license'
 [ERROR] The compilation of coq-tactician.8.11.dev failed at "dune build -p coq-tactician -j 7 @install".
@@ -8,8 +10,8 @@
 # path                 ~/tmp/opam-root/bench/.opam-switch/build/coq-tactician.8.11.dev
 # command              ~/tmp/opam-root/bench/bin/dune build -p coq-tactician -j 7 @install
 # exit-code            1
-# env-file             /tmp/opam-xxx-7953/coq-tactician-7953-7e8b7b.env
-# output-file          /tmp/opam-xxx-7953/coq-tactician-7953-7e8b7b.out
+# env-file             ~/tmp/opam-root/log/coq-tactician-83027-a8fedf.env
+# output-file          ~/tmp/opam-root/log/coq-tactician-83027-a8fedf.out
 ### output ###
 # [...]
 # Hint: To disable this warning, add the following to your dune-project file:
