@@ -1,0 +1,7 @@
+
+
+------------------ Benchmark terminated -----------------------
+
+Fatal benchmarking error: Termination request received: sigint
+Fatal benchmarking error: Initial build did not fully complete
+Non-fatal benchmarking error: Coq process ended abruptly. Invocation: (cd /home/brai/tmp/opam-root/bench/.opam-switch/build/coq-tactician-stdlib.8.11.dev && /home/brai/tmp/opam-root/bench/lib/coq-tactician/coqc.real /home/brai/tmp/opam-root/bench/lib/coq-tactician/coqc.real -q -I /home/brai/tmp/opam-root/bench/lib/coq/user-contrib/Tactician -R /home/brai/tmp/opam-root/bench/lib/coq/user-contrib/Tactician Tactician -rifrom Tactician Ltac1.Record -l /home/brai/tmp/opam-root/bench/share/coq-tactician/plugins/zzz-benchmark/Injections.v -q -coqlib . -I /home/brai/tmp/opam-root/bench/lib/coq/user-contrib/Tactician -R /home/brai/tmp/opam-root/bench/lib/coq/user-contrib/Tactician Tactician -rifrom Tactician Ltac1.Record -noinit -R theories Coq theories/Init/Logic.v -l /home/brai/tmp/BenchParams.v)

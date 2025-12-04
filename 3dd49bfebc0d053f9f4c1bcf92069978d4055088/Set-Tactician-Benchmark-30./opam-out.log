@@ -1,0 +1,87 @@
+Opam has already been initialized.
+Nothing to do.
+[coq-tactician.dev] synchronised (git+ssh://git@github.com/coq-tactician/coq-tactician#3dd49bfebc0d053f9f4c1bcf92069978d4055088)
+coq-tactician is now pinned to git+ssh://git@github.com/coq-tactician/coq-tactician#3dd49bfebc0d053f9f4c1bcf92069978d4055088 (version dev)
+
+<><> Synchronising pinned packages ><><><><><><><><><><><><><><><><><><><><><><>
+[coq-tactician.dev] synchronised (no changes)
+
+The following actions will be performed:
+=== downgrade 7 packages
+  ↘ cmdliner        2.1.0 to 1.3.0
+  ↘ opam-client     2.5.0 to 2.4.1
+  ↘ opam-core       2.5.0 to 2.4.1
+  ↘ opam-format     2.5.0 to 2.4.1
+  ↘ opam-repository 2.5.0 to 2.4.1
+  ↘ opam-solver     2.5.0 to 2.4.1
+  ↘ opam-state      2.5.0 to 2.4.1
+=== recompile 5 packages
+  ↻ bos             0.2.1
+  ↻ fmt             0.11.0
+  ↻ jsonm           1.0.2
+  ↻ logs            0.8.0
+  ↻ uutf            1.0.4
+=== install 1 package
+  ∗ coq-tactician   dev (pinned)
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+⬇ retrieved bos.0.2.1  (cached)
+⬇ retrieved fmt.0.11.0  (cached)
+⬇ retrieved jsonm.1.0.2  (cached)
+⬇ retrieved logs.0.8.0  (cached)
+⬇ retrieved cmdliner.1.3.0  (https://opam.ocaml.org/cache)
+⬇ retrieved uutf.1.0.4  (cached)
+⬇ retrieved opam-client.2.4.1, opam-core.2.4.1, opam-format.2.4.1, opam-repository.2.4.1, opam-solver.2.4.1, opam-state.2.4.1  (https://opam.ocaml.org/cache)
+⬇ retrieved coq-tactician.dev  (no changes)
+⊘ removed   bos.0.2.1
+⊘ removed   logs.0.8.0
+⊘ removed   fmt.0.11.0
+⊘ removed   opam-client.2.5.0
+⊘ removed   opam-solver.2.5.0
+⊘ removed   opam-state.2.5.0
+⊘ removed   opam-repository.2.5.0
+⊘ removed   opam-format.2.5.0
+⊘ removed   opam-core.2.5.0
+⊘ removed   jsonm.1.0.2
+⊘ removed   uutf.1.0.4
+⊘ removed   cmdliner.2.1.0
+∗ installed cmdliner.1.3.0
+∗ installed uutf.1.0.4
+∗ installed fmt.0.11.0
+∗ installed jsonm.1.0.2
+∗ installed logs.0.8.0
+∗ installed bos.0.2.1
+∗ installed opam-core.2.4.1
+∗ installed opam-format.2.4.1
+∗ installed opam-repository.2.4.1
+∗ installed opam-solver.2.4.1
+∗ installed opam-state.2.4.1
+∗ installed opam-client.2.4.1
+∗ installed coq-tactician.dev
+Done.
+
+<><> coq-tactician.dev installed successfully <><><><><><><><><><><><><><><><><>
+=> --- Tactician was successfully installed ---
+
+   In order to enable Tactician, you should run
+
+   tactician enable
+No modification in switch bench
+Added '["tactician" "exec" "--"] {coq-tactician:installed}' to field wrap-build-commands in switch bench
+No modification in switch bench
+Added '["tactician" "exec" "--"] {coq-tactician:installed}' to field wrap-install-commands in switch bench
+No modification in switch bench
+Added '["%{coq-tactician:lib}%/tactician-patch" name version] {coq-tactician:installed}' to field pre-build-commands in switch bench
+The following actions will be performed:
+=== install 1 package
+  ∗ coq-tactician-stdlib 8.11.dev  *** WARNING ***
+                                   This package will overwrite Coq's standard library files.
+                                   A backup of the original files will be placed under Coq's
+                                   library directory at user-contrib/tactician-stdlib-backup/
+                                   and they will be restored when you remove this package.
+                                   After installation of this package, all other Coq packages
+                                   also need to be recompiled. Running the 'tactician recompile'
+                                   command-line utility will help with this process.
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+⬇ retrieved coq-tactician-stdlib.8.11.dev  (git+https://github.com/coq-tactician/coq-tactician-stdlib.git#coq8.11)
