@@ -1,7 +1,11 @@
-Opam has already been initialized.
-Nothing to do.
-[coq-tactician-api.15.0+8.11] synchronised (no changes)
-coq-tactician-api is now pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096 (version 15.0+8.11)
+Proceed? [y/n] y
+Checking for available remotes: rsync and local, git.
+  - you won't be able to use mercurial repositories unless you install the hg command on your system.
+  - you won't be able to use darcs repositories unless you install the darcs command on your system.
 
-<><> Synchronising pinned packages ><><><><><><><><><><><><><><><><><><><><><><>
-[coq-tactician.8.11.dev] synchronised (no changes)
+
+<><> Fetching repository information ><><><><><><><><><><><><><><><><><><><><><>
+[coq-core-dev] Initialised
+[coq-extra-dev] Initialised
+[custom-archive] Initialised
+[coq-released] Initialised

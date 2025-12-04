@@ -4,5 +4,5 @@
 
 Fatal benchmarking error: Termination request received: sigint
 Fatal benchmarking error: ((rpc_error (Connection_closed (Rpc.Connection.close)))
- (connection_description ("Client connected via TCP" (5936c6bcc06b 36343)))
+ (connection_description ("Client connected via TCP" (5936c6bcc06b 43893)))
  (rpc_name rpc_parallel_piped_5) (rpc_version 0))
