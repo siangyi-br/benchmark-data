@@ -1,1 +1,1 @@
-Set Tactician Neural Server "localhost:2224".
+Set Tactician Neural Server "localhost:2223".
