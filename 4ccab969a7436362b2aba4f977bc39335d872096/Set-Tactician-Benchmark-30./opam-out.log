@@ -5,20 +5,3 @@ coq-tactician-api is now pinned to git+ssh://git@github.com/BlueRavenAI/coq-tact
 
 <><> Synchronising pinned packages ><><><><><><><><><><><><><><><><><><><><><><>
 [coq-tactician.8.11.dev] synchronised (no changes)
-[coq-tactician-api.15.0+8.11] synchronised (no changes)
-
-The following actions will be performed:
-=== install 2 packages
-  ∗ coq-tactician     8.11.dev (pinned)
-  ∗ coq-tactician-api 15.0+8.11 (pinned)
-
-<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
-⬇ retrieved coq-tactician.8.11.dev  (no changes)
-⬇ retrieved coq-tactician-api.15.0+8.11  (no changes)
-
-
-<><> Error report <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
-┌─ The following actions failed
-│ λ build coq-tactician 8.11.dev
-└─ 
-╶─ No changes have been performed
