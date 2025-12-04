@@ -1,1 +1,6 @@
-[WARNING] /home/brai/.opam exists and is not empty
+[WARNING] Failed checks on coq-tactician-api package definition from source at git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096:
+           warning 68: Missing field 'license'
+  * Missing dependency:
+    - coq-tactician-stdlib
+    unknown package
+
