@@ -3,27 +3,3 @@
 [NOTE] Package coq-tactician-api is already pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096 (version 15.0+8.11).
 [WARNING] Failed checks on coq-tactician-api package definition from source at git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096:
            warning 68: Missing field 'license'
-[ERROR] The compilation of coq-tactician.8.11.dev failed at "dune build -p coq-tactician -j 7 @install".
-
-#=== ERROR while compiling coq-tactician.8.11.dev =============================#
-# context              2.2.1 | linux/x86_64 |  | pinned(git+https://github.com/coq-tactician/coq-tactician.git#9224b136ee7823d4776301035d9455f56c8c16b1#9224b136ee7823d4776301035d9455f56c8c16b1)
-# path                 ~/tmp/opam-root/bench/.opam-switch/build/coq-tactician.8.11.dev
-# command              ~/tmp/opam-root/bench/bin/dune build -p coq-tactician -j 7 @install
-# exit-code            1
-# env-file             ~/tmp/opam-root/log/coq-tactician-164409-200509.env
-# output-file          ~/tmp/opam-root/log/coq-tactician-164409-200509.out
-### output ###
-# [...]
-# Hint: To disable this warning, add the following to your dune-project file:
-# (warnings (deprecated_coq_lang_lt_08 disabled))
-# (cd _build/default/theories && /home/brai/tmp/opam-root/bench/bin/coqdep -I /home/brai/tmp/opam-root/bench/lib/coq/clib -I /home/brai/tmp/opam-root/bench/lib/coq/config -I /home/brai/tmp/opam-root/bench/lib/coq/engine -I /home/brai/tmp/opam-root/bench/lib/coq/gramlib/.pack -I /home/brai/tmp/opam-root/bench/lib/coq/interp -I /home/brai/tmp/opam-root/bench/lib/coq/kernel -I /home/brai/tmp/opam-[...]
-# *** Warning: in file Ltac1/Record.v, declared ML module ltac_plugin has not been found!
-# *** Warning: in file Ltac1/Record.v, declared ML module ground_plugin has not been found!
-# *** Warning: in file Ltac1/Record.v, declared ML module extraction_plugin has not been found!
-# *** Warning: in file Ltac1/Record.v, declared ML module recdef_plugin has not been found!
-# (cd _build/default && /home/brai/tmp/opam-root/bench/bin/ocamlc.opt -w -40 -warn-error -A -g -bin-annot -I coq-shim/.tactician.eobjs/byte -I /home/brai/tmp/opam-root/bench/lib/0install-solver -I /home/brai/tmp/opam-root/bench/lib/astring -I /home/brai/tmp/opam-root/bench/lib/base64 -I /home/brai/tmp/opam-root/bench/lib/bos -I /home/brai/tmp/opam-root/bench/lib/cudf -I /home/brai/tmp/opam-root[...]
-# File "coq-shim/tactician.ml", line 3, characters 5-13:
-# 3 | open Cmdliner
-#          ^^^^^^^^
-# Error: Unbound module Cmdliner
-
