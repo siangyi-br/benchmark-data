@@ -1,0 +1,10 @@
+[NOTE] coq-tactician-stdlib is not installed.
+
+[WARNING] Failed checks on coq-tactician-api package definition from source at git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b:
+           warning 68: Missing field 'license'
+[NOTE] Package coq-tactician is currently pinned to git+ssh://git@github.com/coq-tactician/coq-tactician#3dd49bfebc0d053f9f4c1bcf92069978d4055088 (version dev).
+[NOTE] Package bos is already installed (current version is 0.2.1).
+[NOTE] Package logs is already installed (current version is 0.8.0).
+[NOTE] While removing coq-tactician.dev: not removing non-empty directories:
+         - share/coq-tactician/plugins
+

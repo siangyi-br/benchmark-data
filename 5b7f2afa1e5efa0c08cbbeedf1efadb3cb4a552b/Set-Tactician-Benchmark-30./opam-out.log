@@ -1,1 +1,243 @@
 Opam has already been initialized.
+Nothing to do.
+[coq-tactician-api.15.0+8.11] synchronised (git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b)
+The following additional pinnings are required by coq-tactician-api.15.0+8.11:
+  - coq-tactician.8.11.dev at git+https://github.com/coq-tactician/coq-tactician.git#3dd49bfebc0d053f9f4c1bcf92069978d4055088
+Pin and install them? [y/n] y
+[coq-tactician.8.11.dev] synchronised (git+https://github.com/coq-tactician/coq-tactician.git#3dd49bfebc0d053f9f4c1bcf92069978d4055088)
+coq-tactician is now pinned to git+https://github.com/coq-tactician/coq-tactician.git#3dd49bfebc0d053f9f4c1bcf92069978d4055088 (version 8.11.dev)
+coq-tactician-api is now pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#5b7f2afa1e5efa0c08cbbeedf1efadb3cb4a552b (version 15.0+8.11)
+
+<><> Synchronising pinned packages ><><><><><><><><><><><><><><><><><><><><><><>
+[coq-tactician.8.11.dev] synchronised (no changes)
+[coq-tactician-api.15.0+8.11] synchronised (no changes)
+
+The following actions will be performed:
+=== downgrade 1 package
+  ↘ coq-tactician         dev to 8.11.dev (pinned)
+=== recompile 2 packages
+  ↻ bos                   0.2.1
+  ↻ logs                  0.8.0
+=== install 65 packages
+  ∗ angstrom              0.16.1
+  ∗ asetmap               0.8.1
+  ∗ asn1-combinators      0.2.6
+  ∗ base                  v0.15.1
+  ∗ base-bytes            base
+  ∗ bigstringaf           0.10.0
+  ∗ capnp                 3.6.0
+  ∗ capnp-rpc             1.2.3
+  ∗ capnp-rpc-lwt         1.2.3
+  ∗ capnp-rpc-net         1.2.3
+  ∗ capnp-rpc-unix        1.2.3
+  ∗ conf-capnproto        2
+  ∗ conf-gmp              5
+  ∗ conf-gmp-powm-sec     4
+  ∗ conf-pkg-config       4
+  ∗ conf-xxhash           1
+  ∗ coq-tactician-api     15.0+8.11 (pinned)
+  ∗ cstruct               6.2.0
+  ∗ cstruct-lwt           6.2.0
+  ∗ ctypes                0.24.0
+  ∗ domain-name           0.5.0
+  ∗ dune-configurator     3.20.2
+  ∗ duration              0.2.1
+  ∗ eqaf                  0.9
+  ∗ extunix               0.4.4
+  ∗ gmap                  0.3.0
+  ∗ hkdf                  1.0.4 (deprecated)
+  ∗ integers              0.7.0
+  ∗ ipaddr                5.6.1
+  ∗ lwt                   5.9.2
+  ∗ macaddr               5.6.1
+  ∗ mirage-clock          4.2.0
+  ∗ mirage-crypto         0.11.3
+  ∗ mirage-crypto-ec      0.11.3
+  ∗ mirage-crypto-pk      0.11.3
+  ∗ mirage-crypto-rng     0.11.3
+  ∗ mirage-crypto-rng-lwt 0.11.3
+  ∗ mirage-flow           3.0.0
+  ∗ mirage-kv             6.1.1
+  ∗ mtime                 2.1.0
+  ∗ oasis                 0.4.11
+  ∗ ocaml-compiler-libs   v0.12.4
+  ∗ ocaml-syntax-shims    1.0.0
+  ∗ ocamlify              0.0.1
+  ∗ ocamlmod              0.0.9
+  ∗ ocplib-endian         1.2
+  ∗ optint                0.3.0
+  ∗ pbkdf                 1.2.0
+  ∗ ppx_derivers          1.2.1
+  ∗ ppx_deriving          6.1.1
+  ∗ ppxlib                0.37.0
+  ∗ prometheus            1.2
+  ∗ ptime                 1.2.0
+  ∗ res                   5.0.2
+  ∗ result                1.5
+  ∗ sexplib0              v0.15.1
+  ∗ stdint                0.7.2
+  ∗ stdio                 v0.15.0
+  ∗ stringext             1.6.0
+  ∗ tls                   0.17.3
+  ∗ tls-mirage            0.17.3
+  ∗ uri                   4.4.0
+  ∗ x509                  0.16.5
+  ∗ xxhash                0.1
+  ∗ zarith                1.14
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+⬇ retrieved asetmap.0.8.1  (https://opam.ocaml.org/cache)
+∗ installed asetmap.0.8.1
+⬇ retrieved asn1-combinators.0.2.6  (https://opam.ocaml.org/cache)
+∗ installed base-bytes.base
+⬇ retrieved angstrom.0.16.1  (https://opam.ocaml.org/cache)
+⬇ retrieved bos.0.2.1  (cached)
+⬇ retrieved bigstringaf.0.10.0  (https://opam.ocaml.org/cache)
+⬇ retrieved base.v0.15.1  (https://opam.ocaml.org/cache)
+∗ installed conf-capnproto.2
+⬇ retrieved capnp.3.6.0  (https://opam.ocaml.org/cache)
+⬇ retrieved capnp-rpc.1.2.3, capnp-rpc-lwt.1.2.3, capnp-rpc-net.1.2.3, capnp-rpc-unix.1.2.3  (https://opam.ocaml.org/cache)
+∗ installed conf-pkg-config.4
+∗ installed conf-xxhash.1
+⬇ retrieved conf-gmp.5  (https://opam.ocaml.org/cache)
+∗ installed conf-gmp.5
+⬇ retrieved conf-gmp-powm-sec.4  (https://opam.ocaml.org/cache)
+∗ installed conf-gmp-powm-sec.4
+⬇ retrieved coq-tactician.8.11.dev  (no changes)
+⬇ retrieved cstruct.6.2.0, cstruct-lwt.6.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ctypes.0.24.0  (https://opam.ocaml.org/cache)
+∗ installed cstruct.6.2.0
+⬇ retrieved domain-name.0.5.0  (https://opam.ocaml.org/cache)
+∗ installed domain-name.0.5.0
+⬇ retrieved dune-configurator.3.20.2  (cached)
+⬇ retrieved duration.0.2.1  (https://opam.ocaml.org/cache)
+⬇ retrieved coq-tactician-api.15.0+8.11  (no changes)
+∗ installed duration.0.2.1
+⬇ retrieved eqaf.0.9  (https://opam.ocaml.org/cache)
+⬇ retrieved gmap.0.3.0  (https://opam.ocaml.org/cache)
+∗ installed gmap.0.3.0
+∗ installed eqaf.0.9
+⬇ retrieved hkdf.1.0.4  (https://opam.ocaml.org/cache)
+⬇ retrieved extunix.0.4.4  (https://opam.ocaml.org/cache)
+⬇ retrieved logs.0.8.0  (cached)
+⬇ retrieved integers.0.7.0  (https://opam.ocaml.org/cache)
+⊘ removed   coq-tactician.dev
+⊘ removed   bos.0.2.1
+⊘ removed   logs.0.8.0
+∗ installed dune-configurator.3.20.2
+∗ installed integers.0.7.0
+∗ installed bigstringaf.0.10.0
+⬇ retrieved mirage-clock.4.2.0  (https://opam.ocaml.org/cache)
+∗ installed mirage-clock.4.2.0
+⬇ retrieved ipaddr.5.6.1, macaddr.5.6.1  (https://opam.ocaml.org/cache)
+∗ installed macaddr.5.6.1
+⬇ retrieved mirage-flow.3.0.0  (https://opam.ocaml.org/cache)
+⬇ retrieved lwt.5.9.2  (https://opam.ocaml.org/cache)
+∗ installed ipaddr.5.6.1
+⬇ retrieved mirage-kv.6.1.1  (https://opam.ocaml.org/cache)
+⬇ retrieved mtime.2.1.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ocaml-compiler-libs.v0.12.4  (https://opam.ocaml.org/cache)
+⬇ retrieved mirage-crypto.0.11.3, mirage-crypto-ec.0.11.3, mirage-crypto-pk.0.11.3, mirage-crypto-rng.0.11.3, mirage-crypto-rng-lwt.0.11.3  (https://opam.ocaml.org/cache)
+∗ installed mtime.2.1.0
+⬇ retrieved ocaml-syntax-shims.1.0.0  (https://opam.ocaml.org/cache)
+∗ installed ocaml-compiler-libs.v0.12.4
+∗ installed ocaml-syntax-shims.1.0.0
+⬇ retrieved oasis.0.4.11  (https://opam.ocaml.org/cache)
+∗ installed angstrom.0.16.1
+⬇ retrieved ocamlify.0.0.1  (https://opam.ocaml.org/cache)
+⬇ retrieved ocplib-endian.1.2  (https://opam.ocaml.org/cache)
+∗ installed ocplib-endian.1.2
+⬇ retrieved ocamlmod.0.0.9  (https://opam.ocaml.org/cache)
+⬇ retrieved pbkdf.1.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved optint.0.3.0  (https://opam.ocaml.org/cache)
+∗ installed ctypes.0.24.0
+∗ installed optint.0.3.0
+⬇ retrieved ppx_derivers.1.2.1  (https://opam.ocaml.org/cache)
+∗ installed ppx_derivers.1.2.1
+⬇ retrieved ppx_deriving.6.1.1  (https://opam.ocaml.org/cache)
+⬇ retrieved prometheus.1.2  (https://opam.ocaml.org/cache)
+⬇ retrieved ppxlib.0.37.0  (https://opam.ocaml.org/cache)
+⬇ retrieved ptime.1.2.0  (https://opam.ocaml.org/cache)
+⬇ retrieved res.5.0.2  (https://opam.ocaml.org/cache)
+⬇ retrieved result.1.5  (https://opam.ocaml.org/cache)
+⬇ retrieved sexplib0.v0.15.1  (https://opam.ocaml.org/cache)
+∗ installed ocamlify.0.0.1
+∗ installed res.5.0.2
+∗ installed result.1.5
+⬇ retrieved stdio.v0.15.0  (https://opam.ocaml.org/cache)
+⬇ retrieved stdint.0.7.2  (https://opam.ocaml.org/cache)
+∗ installed sexplib0.v0.15.1
+⬇ retrieved stringext.1.6.0  (https://opam.ocaml.org/cache)
+∗ installed ptime.1.2.0
+∗ installed lwt.5.9.2
+∗ installed stringext.1.6.0
+∗ installed cstruct-lwt.6.2.0
+∗ installed mirage-flow.3.0.0
+⬇ retrieved uri.4.4.0  (https://opam.ocaml.org/cache)
+⬇ retrieved x509.0.16.5  (https://opam.ocaml.org/cache)
+⬇ retrieved tls.0.17.3, tls-mirage.0.17.3  (https://opam.ocaml.org/cache)
+∗ installed mirage-kv.6.1.1
+⬇ retrieved xxhash.0.1  (https://opam.ocaml.org/cache)
+⬇ retrieved zarith.1.14  (https://opam.ocaml.org/cache)
+∗ installed ocamlmod.0.0.9
+∗ installed logs.0.8.0
+∗ installed prometheus.1.2
+∗ installed stdint.0.7.2
+∗ installed uri.4.4.0
+∗ installed zarith.1.14
+∗ installed capnp-rpc.1.2.3
+∗ installed mirage-crypto.0.11.3
+∗ installed asn1-combinators.0.2.6
+∗ installed hkdf.1.0.4
+∗ installed pbkdf.1.2.0
+∗ installed mirage-crypto-rng.0.11.3
+∗ installed bos.0.2.1
+∗ installed mirage-crypto-rng-lwt.0.11.3
+∗ installed base.v0.15.1
+∗ installed mirage-crypto-pk.0.11.3
+∗ installed stdio.v0.15.0
+∗ installed coq-tactician.8.11.dev
+∗ installed mirage-crypto-ec.0.11.3
+∗ installed capnp.3.6.0
+∗ installed x509.0.16.5
+∗ installed capnp-rpc-lwt.1.2.3
+∗ installed tls.0.17.3
+∗ installed tls-mirage.0.17.3
+∗ installed capnp-rpc-net.1.2.3
+∗ installed ppxlib.0.37.0
+∗ installed ppx_deriving.6.1.1
+∗ installed extunix.0.4.4
+∗ installed capnp-rpc-unix.1.2.3
+∗ installed oasis.0.4.11
+∗ installed xxhash.0.1
+∗ installed coq-tactician-api.15.0+8.11
+Done.
+
+<><> hkdf.1.0.4 installed successfully ><><><><><><><><><><><><><><><><><><><><>
+=> Note: This package is deprecated.
+
+<><> coq-tactician.8.11.dev installed successfully ><><><><><><><><><><><><><><>
+=> --- Tactician was successfully installed ---
+
+   In order to enable Tactician, you should run
+
+   tactician enable
+Removed '["tactician" "exec" "--"] {coq-tactician:installed}' from field wrap-build-commands in switch bench
+Added '["tactician" "exec" "--"] {coq-tactician:installed}' to field wrap-build-commands in switch bench
+Removed '["tactician" "exec" "--"] {coq-tactician:installed}' from field wrap-install-commands in switch bench
+Added '["tactician" "exec" "--"] {coq-tactician:installed}' to field wrap-install-commands in switch bench
+Removed '["%{coq-tactician:lib}%/tactician-patch" name version] {coq-tactician:installed}' from field pre-build-commands in switch bench
+Added '["%{coq-tactician:lib}%/tactician-patch" name version] {coq-tactician:installed}' to field pre-build-commands in switch bench
+The following actions will be performed:
+=== install 1 package
+  ∗ coq-tactician-stdlib 8.11.dev  *** WARNING ***
+                                   This package will overwrite Coq's standard library files.
+                                   A backup of the original files will be placed under Coq's
+                                   library directory at user-contrib/tactician-stdlib-backup/
+                                   and they will be restored when you remove this package.
+                                   After installation of this package, all other Coq packages
+                                   also need to be recompiled. Running the 'tactician recompile'
+                                   command-line utility will help with this process.
+
+<><> Processing actions <><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+⬇ retrieved coq-tactician-stdlib.8.11.dev  (no changes)
