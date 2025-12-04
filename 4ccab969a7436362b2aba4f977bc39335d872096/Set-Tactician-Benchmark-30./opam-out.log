@@ -5,8 +5,8 @@ Checking for available remotes: rsync and local, git.
 
 
 <><> Fetching repository information ><><><><><><><><><><><><><><><><><><><><><>
-[coq-extra-dev] Initialised
 [coq-core-dev] Initialised
+[coq-extra-dev] Initialised
 [custom-archive] Initialised
 [coq-released] Initialised
 [default] Initialised
@@ -17,3 +17,4 @@ Pin and install them? [y/n] y
 [coq-tactician.8.11.dev] synchronised (no changes)
 coq-tactician is now pinned to git+https://github.com/coq-tactician/coq-tactician.git#9224b136ee7823d4776301035d9455f56c8c16b1 (version 8.11.dev)
 coq-tactician-api is now pinned to git+ssh://git@github.com/BlueRavenAI/coq-tactician-api#4ccab969a7436362b2aba4f977bc39335d872096 (version 15.0+8.11)
+coq is now pinned to version 8.12.2
