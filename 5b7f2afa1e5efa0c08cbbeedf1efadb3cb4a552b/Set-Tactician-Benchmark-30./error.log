@@ -3,6 +3,12 @@
 ------------------ Benchmark terminated -----------------------
 
 Fatal benchmarking error: Termination request received: sigint
-Fatal benchmarking error: ((rpc_error (Connection_closed (Rpc.Connection.close)))
- (connection_description ("Client connected via TCP" (c8dc79ad4d48 35747)))
- (rpc_name rpc_parallel_piped_5) (rpc_version 0))
+Fatal benchmarking error: Initial build did not fully complete
+Fatal benchmarking error: Termination request received: sigint
+Fatal benchmarking error: Termination request received: sigint
+) (rpc_version 0))
+Fatal benchmarking error: Termination request received: sigint
+Fatal benchmarking error: Termination request received: sigint
+Fatal benchmarking error: Termination request received: sigint
+Fatal benchmarking error: Termination request received: sigint
+Fatal benchmarking error: Termination request received: sigint
