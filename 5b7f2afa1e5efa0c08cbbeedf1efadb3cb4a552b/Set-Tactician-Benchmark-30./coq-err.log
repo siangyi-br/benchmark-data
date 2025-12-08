@@ -1,3 +1,468 @@
-File "./theories/Init/Tactics.v", line 189, characters 0-45:
+File "./theories/Init/Logic.v", line 69, characters 4-24:
 Warning:
-now idtac((TacAlias Coq.Init.Tactics.now_#_62200C10 ((TacThen (TacArg (CAst (Reference (CAst t)))) (TacArg (CAst (TacCall Coq.Init.Tactics.easy (CAst Located)))))) (CAst (Tacexp (TacId)))))
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 74, characters 4-24:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 106, characters 4-16:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 111, characters 4-46:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 116, characters 4-36:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 128, characters 2-108:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 135, characters 2-108:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 142, characters 2-110:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 149, characters 2-110:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 156, characters 2-86:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 162, characters 2-83:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 168, characters 2-45:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 176, characters 2-29:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 184, characters 2-21:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 193, characters 2-21:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 201, characters 2-49:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 206, characters 2-81:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 212, characters 2-87:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 220, characters 2-87:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 227, characters 2-64:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 232, characters 2-55:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 242, characters 2-32:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 247, characters 2-85:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 329, characters 4-21:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 334, characters 4-14:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 379, characters 4-33:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 416, characters 6-56:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 516, characters 2-38:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 526, characters 2-50:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 534, characters 2-62:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 544, characters 2-74:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 652, characters 2-14:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 676, characters 2-30:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 682, characters 2-26:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 720, characters 2-20:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 733, characters 2-37:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 746, characters 2-15:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 770, characters 2-19:
+Warning:
+Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+File "./theories/Init/Logic.v", line 775, characters 2-38:
+Warning:
+Benchmarking error: Error while communicating with proving server:
+Connection reset by peer
+File "./theories/Init/Logic.v", line 782, characters 2-23:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 790, characters 2-48:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 810, characters 4-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 836, characters 4-31:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 850, characters 4-27:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 886, characters 4-31:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/IfProp.v", line 20, characters 0-35:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/IfProp.v", line 26, characters 0-35:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/IfProp.v", line 31, characters 0-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/IfProp.v", line 37, characters 0-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/IfProp.v", line 43, characters 0-27:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/IfProp.v", line 47, characters 0-20:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/DecBool.v", line 21, characters 2-23:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/DecBool.v", line 29, characters 2-23:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 42, characters 2-15:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 48, characters 2-15:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 55, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 60, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 65, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 70, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 75, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 91, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 111, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 116, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 121, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 126, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 131, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 152, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 157, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 166, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 171, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 179, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 184, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 189, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 194, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 201, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 206, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 211, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 222, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 228, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 239, characters 1-37:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 245, characters 1-37:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 252, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 259, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 264, characters 1-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 271, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 277, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 287, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 293, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 304, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 314, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 321, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 332, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 338, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 349, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 354, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 361, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 366, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 374, characters 1-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 381, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 386, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 403, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 413, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 420, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 434, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 440, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 446, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 452, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 465, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Bool/Bool.v", line 470, characters 2-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
