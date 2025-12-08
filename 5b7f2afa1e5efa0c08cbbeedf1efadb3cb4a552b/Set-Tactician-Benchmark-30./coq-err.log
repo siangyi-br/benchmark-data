@@ -1,25 +1,65 @@
-File "./theories/Arith/Between.v", line 160, characters 6-52:
+File "./theories/Init/Logic.v", line 106, characters 4-16:
 Warning:
-Tactician found a bug in it's tactical decomposition. Please report.
-destruct (exists_in_int k (S l)) as (l', [], ?)
-<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
- [ .. | destruct _tmp_tactician0 as []; idtac ]
-
-File "./theories/Arith/Div2.v", line 32, characters 2-20:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 156, characters 2-86:
 Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/Arith/PeanoNat.v", line 154, characters 1-10:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 162, characters 2-83:
 Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
-File "./theories/Arith/PeanoNat.v", line 287, characters 1-35:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 168, characters 2-45:
 Warning:
-Tactician found a bug in it's tactical decomposition. Please report.
-intros ([| ], H); try discriminate
-intros _tmp_tactician0;
- (destruct _tmp_tactician0 as (_tmp_tactician2, H);
-   [ .. | destruct _tmp_tactician2 as [| ]; [ .. | idtac | idtac ] ]);
- try discriminate
-
-File "./theories/Arith/PeanoNat.v", line 538, characters 1-10:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 176, characters 2-29:
 Warning:
-Benchmarking error: Cap'n Proto protocol error while communicating with proving server. No response was received.
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 242, characters 2-32:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 329, characters 4-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 379, characters 4-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 416, characters 6-56:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 652, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 682, characters 2-26:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 770, characters 2-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Init/Logic.v", line 775, characters 2-38:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
