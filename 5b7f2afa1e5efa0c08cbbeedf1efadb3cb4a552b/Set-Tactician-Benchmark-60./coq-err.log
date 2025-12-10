@@ -1,0 +1,551 @@
+File "./theories/Reals/RiemannInt.v", line 617, characters 2-55:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/RiemannInt.v", line 742, characters 2-159:
+Warning: Tactician's tactical decomposition crashed. Please report.
+File "./theories/Reals/RiemannInt_SF.v", line 29, characters 2-50:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rpower.v", line 234, characters 2-36:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rpower.v", line 421, characters 2-28:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Ranalysis4.v", line 78, characters 2-15:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Ranalysis4.v", line 369, characters 2-44:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Ranalysis4.v", line 387, characters 2-30:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rtrigo_reg.v", line 439, characters 2-29:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rtrigo_reg.v", line 457, characters 2-31:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rtrigo_calc.v", line 96, characters 2-146:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rtrigo_calc.v", line 230, characters 2-41:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rtrigo_calc.v", line 300, characters 2-59:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/Rtrigo1.v", line 746, characters 2-68:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Reals/RIneq.v", line 1576, characters 2-32:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 597, characters 7-22:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1369, characters 1-24:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/FSets/FMapFullAVL.v", line 510, characters 8-29:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/FSets/FMapFullAVL.v", line 520, characters 8-57:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./theories/FSets/FMapFullAVL.v", line 557, characters 8-65:
+Warning: Benchmarking error: Forked process exited with code 1
+File "./plugins/btauto/Algebra.v", line 475, characters 4-59:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+enough (Pos.max (Pos.succ i) i0 = i0) as <-; intuition
+enough (_tmp_tactician0 : Pos.max (Pos.succ i) i0 = i0);
+ [ intropattern subst <- _tmp_tactician0; idtac | .. ]; intuition
+
+File "./plugins/micromega/ZMicromega.v", line 370, characters 2-14:
+Warning:
+Benchmarking error: Error while communicating with proving server:
+Connection reset by peer
+File "./plugins/micromega/ZMicromega.v", line 1258, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/micromega/ZMicromega.v", line 1272, characters 2-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetDecide.v", line 498, characters 5-15:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveReals.v", line 269, characters 2-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveReals.v", line 348, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveReals.v", line 355, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveReals.v", line 362, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveReals.v", line 370, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveReals.v", line 502, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 642, characters 1-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 648, characters 1-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 660, characters 1-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 668, characters 1-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 674, characters 1-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 680, characters 1-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 686, characters 1-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 697, characters 1-20:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1358, characters 1-36:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1372, characters 1-46:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1447, characters 1-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1867, characters 8-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1881, characters 8-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1886, characters 8-49:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1889, characters 8-51:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1891, characters 8-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1893, characters 8-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1901, characters 8-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1903, characters 8-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1907, characters 8-59:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1909, characters 8-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1913, characters 8-58:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1981, characters 8-73:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 2169, characters 2-63:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qround.v", line 32, characters 0-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qround.v", line 39, characters 0-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qround.v", line 73, characters 0-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qabs.v", line 60, characters 0-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qabs.v", line 121, characters 0-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 73, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 80, characters 2-30:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 125, characters 2-30:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 130, characters 2-30:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 135, characters 2-30:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 292, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 326, characters 2-45:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 331, characters 2-34:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 337, characters 2-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 351, characters 2-53:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 356, characters 2-56:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 361, characters 2-56:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 366, characters 2-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 378, characters 2-52:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 383, characters 2-52:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 388, characters 2-52:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 514, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 529, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 72, characters 0-28:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 77, characters 0-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 129, characters 0-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 201, characters 0-45:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 365, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 630, characters 7-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 634, characters 7-26:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 642, characters 0-75:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 1057, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 1064, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 1178, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 1223, characters 2-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 1794, characters 2-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalZ.v", line 50, characters 1-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 63, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 291, characters 4-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 467, characters 4-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 561, characters 9-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 715, characters 2-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 721, characters 4-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 811, characters 2-48:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Classes/DecidableClass.v", line 72, characters 1-20:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Classes/DecidableClass.v", line 79, characters 1-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Classes/DecidableClass.v", line 86, characters 1-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetFacts.v", line 167, characters 7-31:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetFacts.v", line 175, characters 7-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetFacts.v", line 178, characters 7-34:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetFacts.v", line 181, characters 7-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetFacts.v", line 209, characters 7-48:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetFacts.v", line 212, characters 7-37:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 39, characters 0-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 44, characters 0-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 59, characters 0-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 64, characters 0-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 69, characters 0-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 86, characters 0-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 98, characters 0-45:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 126, characters 0-49:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 132, characters 0-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 137, characters 0-45:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 296, characters 0-69:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 405, characters 7-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 408, characters 7-28:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/Ncring_initial.v", line 32, characters 7-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
