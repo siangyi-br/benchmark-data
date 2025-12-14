@@ -1,0 +1,1553 @@
+File "./plugins/setoid_ring/Ring_polynom.v", line 1489, characters 3-46:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Wf_Z.v", line 165, characters 4-41:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zabs.v", line 52, characters 1-16:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/InitialRing.v", line 65, characters 10-32:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/InitialRing.v", line 594, characters 9-31:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zbool.v", line 136, characters 1-10:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetPositive.v", line 366, characters 9-23:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetPositive.v", line 740, characters 9-16:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalString.v", line 212, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalString.v", line 241, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalString.v", line 249, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/Field_theory.v", line 67, characters 7-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/Field_theory.v", line 443, characters 1-66:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/Field_theory.v", line 862, characters 8-50:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Ndist.v", line 134, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Ndist.v", line 139, characters 2-10:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedTypeEx.v", line 90, characters 9-56:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalN.v", line 29, characters 1-37:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Classes/DecidableClass.v", line 93, characters 1-16:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetPositive.v", line 319, characters 9-25:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+intros s x y ->
+intros s;
+ (intros x;
+   (intros y;
+     (intros _tmp_tactician0; (intropattern subst -> _tmp_tactician0; idtac))))
+
+File "./theories/FSets/FSetPositive.v", line 338, characters 9-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetPositive.v", line 548, characters 9-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetPositive.v", line 696, characters 4-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sorting/Heap.v", line 60, characters 4-31:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sorting/Heap.v", line 66, characters 4-31:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/micromega/ZMicromega.v", line 63, characters 2-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/micromega/ZMicromega.v", line 283, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 77, characters 0-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 630, characters 7-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFacts.v", line 1223, characters 2-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 642, characters 1-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 654, characters 1-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 668, characters 1-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 674, characters 1-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 680, characters 1-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1867, characters 8-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1884, characters 8-49:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1891, characters 8-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1907, characters 8-59:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapAVL.v", line 1913, characters 8-58:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 321, characters 7-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 470, characters 1-46:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Int63/Int63.v", line 560, characters 7-51:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 88, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 228, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 298, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 304, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 328, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 396, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 459, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 511, characters 0-56:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 536, characters 0-50:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 568, characters 0-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 588, characters 0-45:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetEqProperties.v", line 605, characters 0-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFullAVL.v", line 530, characters 8-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFullAVL.v", line 538, characters 8-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapFullAVL.v", line 557, characters 8-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 88, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 465, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1249, characters 1-26:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Int31/Cyclic31.v", line 1349, characters 1-27:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 55, characters 7-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 111, characters 2-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 192, characters 7-55:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 196, characters 7-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 331, characters 7-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 533, characters 2-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 641, characters 2-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1036, characters 2-68:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1129, characters 7-46:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1140, characters 2-46:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1147, characters 2-44:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1166, characters 2-46:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1332, characters 7-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1375, characters 2-30:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1408, characters 7-37:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1459, characters 2-94:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 1485, characters 2-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 2090, characters 2-71:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/RIneq.v", line 2095, characters 0-70:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rbasic_fun.v", line 211, characters 2-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rbasic_fun.v", line 383, characters 2-51:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/R_sqr.v", line 127, characters 2-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rfunctions.v", line 73, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rminmax.v", line 69, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rminmax.v", line 81, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rminmax.v", line 122, characters 1-15:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/SeqProp.v", line 77, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/SeqProp.v", line 430, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetEqProperties.v", line 107, characters 0-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetEqProperties.v", line 199, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetEqProperties.v", line 227, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetEqProperties.v", line 321, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetEqProperties.v", line 333, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetEqProperties.v", line 587, characters 0-45:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetEqProperties.v", line 648, characters 0-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rlimit.v", line 33, characters 2-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveCauchyRealsMult.v", line 589, characters 2-35:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveCauchyRealsMult.v", line 1355, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtopology.v", line 43, characters 2-110:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/R_sqrt.v", line 146, characters 2-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/R_sqrt.v", line 210, characters 2-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rsqrt_def.v", line 197, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Floats/FloatLemmas.v", line 7, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 166, characters 2-22:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 227, characters 2-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 848, characters 2-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 873, characters 2-40:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 886, characters 2-40:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 893, characters 2-40:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 1032, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 1126, characters 2-30:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis1.v", line 1133, characters 2-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo1.v", line 307, characters 2-91:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo1.v", line 478, characters 2-42:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis4.v", line 78, characters 2-15:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis4.v", line 340, characters 2-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Ranalysis4.v", line 356, characters 2-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rpower.v", line 243, characters 2-26:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rpower.v", line 415, characters 2-28:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rpower.v", line 421, characters 2-28:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo_calc.v", line 171, characters 2-37:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo_calc.v", line 230, characters 2-41:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo_calc.v", line 235, characters 2-41:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo_calc.v", line 300, characters 2-59:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo_reg.v", line 432, characters 2-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo_reg.v", line 439, characters 2-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/Rtrigo_reg.v", line 446, characters 2-50:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Abstract/NZCyclic.v", line 87, characters 0-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/Abstract/NZCyclic.v", line 119, characters 0-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 271, characters 1-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Cyclic/ZModulo/ZModulo.v", line 461, characters 1-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetProperties.v", line 94, characters 9-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetProperties.v", line 591, characters 2-56:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetProperties.v", line 597, characters 2-42:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetProperties.v", line 872, characters 2-16:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qpower.v", line 105, characters 0-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetProperties.v", line 95, characters 9-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetProperties.v", line 610, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetProperties.v", line 733, characters 2-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/btauto/Algebra.v", line 139, characters 0-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/btauto/Algebra.v", line 475, characters 4-59:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+enough (Pos.max (Pos.succ i) i0 = i0) as <-; intuition
+enough (_tmp_tactician0 : Pos.max (Pos.succ i) i0 = i0);
+ [ intropattern subst <- _tmp_tactician0; idtac | .. ]; intuition
+
+File "./theories/ZArith/Zpow_facts.v", line 77, characters 7-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zdigits.v", line 188, characters 4-17:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetDecide.v", line 498, characters 5-15:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetCompat.v", line 282, characters 9-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcabs.v", line 57, characters 7-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 63, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 568, characters 2-34:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapPositive.v", line 811, characters 2-48:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetFacts.v", line 181, characters 7-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 39, characters 0-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 59, characters 0-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 64, characters 0-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 86, characters 0-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FSetFacts.v", line 126, characters 0-49:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/micromega/QMicromega.v", line 152, characters 2-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/nsatz/Nsatz.v", line 108, characters 7-15:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/nsatz/Nsatz.v", line 116, characters 0-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Reals/ConstructiveReals.v", line 248, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qabs.v", line 60, characters 0-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 73, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 130, characters 2-30:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 292, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/Qcanon.v", line 529, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sorting/PermutSetoid.v", line 70, characters 2-42:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sorting/PermutSetoid.v", line 165, characters 2-75:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalPos.v", line 105, characters 1-16:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalPos.v", line 209, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalPos.v", line 377, characters 1-73:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct (Pos.of_uint d) eqn:Hd, (Pos.of_uint d') eqn:Hd'; intros [=]
+<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+ <recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+ (intros _tmp_tactician0; (first
+   [ discriminate _tmp_tactician0; idtac
+   | injection _tmp_tactician0 as; idtac
+   | intro_equality_clear _tmp_tactician0; idtac
+   | intro_equality_hnf _tmp_tactician0; idtac ]))
+
+File "./theories/ZArith/Znumtheory.v", line 121, characters 7-38:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Znumtheory.v", line 209, characters 2-32:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Znumtheory.v", line 507, characters 2-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Znumtheory.v", line 804, characters 2-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Ndec.v", line 49, characters 2-10:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Logic/ClassicalDescription.v", line 78, characters 0-11:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Ndigits.v", line 140, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Ndigits.v", line 269, characters 2-22:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Ndigits.v", line 331, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Logic/ClassicalEpsilon.v", line 38, characters 2-106:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zpower.v", line 124, characters 9-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zpower.v", line 177, characters 3-26:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zpower.v", line 193, characters 3-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zdiv.v", line 182, characters 2-26:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zdiv.v", line 244, characters 2-27:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Logic/IndefiniteDescription.v", line 37, characters 2-49:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/DecimalNat.v", line 287, characters 1-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Logic/ChoiceFacts.v", line 1020, characters 2-23:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Logic/ChoiceFacts.v", line 1119, characters 2-115:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Strings/BinaryString.v", line 115, characters 2-54:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Strings/BinaryString.v", line 131, characters 2-73:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/QArith_base.v", line 102, characters 0-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/QArith_base.v", line 107, characters 0-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/QArith_base.v", line 170, characters 2-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/QArith_base.v", line 200, characters 1-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/QArith_base.v", line 619, characters 7-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/QArith/QArith_base.v", line 672, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/micromega/Ztac.v", line 89, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 470, characters 1-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 889, characters 0-23:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 1046, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 1083, characters 1-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 1118, characters 7-51:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 1121, characters 7-51:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 1305, characters 1-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetRBT.v", line 1584, characters 1-29:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zmin.v", line 49, characters 1-16:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zorder.v", line 104, characters 2-10:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zorder.v", line 352, characters 2-25:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zorder.v", line 448, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zorder.v", line 611, characters 1-32:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sets/Integers.v", line 154, characters 4-34:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Classes/Morphisms_Relations.v", line 48, characters 7-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Classes/Morphisms_Relations.v", line 52, characters 7-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Int.v", line 441, characters 9-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Int.v", line 445, characters 9-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Int.v", line 451, characters 9-21:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zpow_alt.v", line 67, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Znat.v", line 48, characters 1-16:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Znat.v", line 307, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Znat.v", line 862, characters 1-13:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sets/Infinite_sets.v", line 238, characters 4-26:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetList.v", line 301, characters 2-9:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetList.v", line 542, characters 2-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetWeakList.v", line 272, characters 2-24:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetWeakList.v", line 279, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zeven.v", line 265, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetGenTree.v", line 504, characters 1-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetGenTree.v", line 706, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/Zcompare.v", line 65, characters 1-28:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapList.v", line 334, characters 1-6:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapList.v", line 1082, characters 8-55:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapList.v", line 1117, characters 8-51:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapList.v", line 1131, characters 8-64:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapList.v", line 1136, characters 8-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapList.v", line 1139, characters 8-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapWeakList.v", line 325, characters 1-6:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapWeakList.v", line 930, characters 8-50:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapWeakList.v", line 975, characters 8-65:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapWeakList.v", line 985, characters 1-113:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/FSets/FMapWeakList.v", line 992, characters 1-113:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 415, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 514, characters 1-8:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 622, characters 18-68:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+destruct n as [| [| | ]| [| | ]]; simpl; try easy
+try intros until n;
+ (<recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+   [ ..
+   | idtac
+   | destruct _tmp_tactician0 as [| | ]; [ .. | idtac | idtac | idtac ]
+   | destruct _tmp_tactician0 as [| | ]; [ .. | idtac | idtac | idtac ] ]);
+ simpl; try easy
+
+File "./theories/ZArith/BinInt.v", line 1228, characters 1-49:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1326, characters 7-23:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1344, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1350, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1387, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1430, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1445, characters 7-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1451, characters 7-34:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1457, characters 7-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1460, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1472, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1484, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1493, characters 7-34:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1501, characters 7-28:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1603, characters 7-22:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/ZArith/BinInt.v", line 1745, characters 7-18:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Numbers/Natural/Abstract/NDefOps.v", line 94, characters 0-6:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrdersLists.v", line 29, characters 7-33:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrdersLists.v", line 35, characters 7-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrdersLists.v", line 44, characters 7-47:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrdersLists.v", line 128, characters 9-41:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sets/Finite_sets_facts.v", line 45, characters 4-33:
+Warning: Tactician's tactical decomposition crashed. Please report.
+File "./theories/Sets/Finite_sets_facts.v", line 66, characters 4-59:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sets/Finite_sets_facts.v", line 99, characters 4-71:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sets/Finite_sets_facts.v", line 213, characters 4-66:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetInterface.v", line 519, characters 9-40:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetInterface.v", line 538, characters 9-40:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetInterface.v", line 546, characters 9-35:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetInterface.v", line 625, characters 9-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetInterface.v", line 629, characters 9-38:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/MSets/MSetInterface.v", line 637, characters 9-38:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 80, characters 9-66:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 84, characters 3-58:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 140, characters 49-55:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 142, characters 51-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 143, characters 51-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 144, characters 51-57:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 222, characters 7-32:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 240, characters 7-43:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 247, characters 7-59:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 298, characters 9-32:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 407, characters 9-39:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/OrderedType.v", line 415, characters 2-59:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Logic/ClassicalUniqueChoice.v", line 43, characters 0-11:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Structures/DecidableType.v", line 57, characters 9-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Lists/SetoidList.v", line 333, characters 1-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Lists/SetoidList.v", line 339, characters 1-7:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Lists/SetoidList.v", line 546, characters 1-56:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/Ring_theory.v", line 88, characters 2-14:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/Ring_theory.v", line 285, characters 8-20:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/setoid_ring/Ring_theory.v", line 291, characters 8-20:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Nnat.v", line 54, characters 1-28:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/Nnat.v", line 125, characters 1-20:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/micromega/Tauto.v", line 526, characters 10-22:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./plugins/micromega/Tauto.v", line 532, characters 10-22:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Logic/Classical_Pred_Type.v", line 70, characters 0-54:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Lists/ListSet.v", line 469, characters 2-20:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/BinNat.v", line 154, characters 0-22:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/BinNat.v", line 193, characters 7-19:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/NArith/BinNat.v", line 312, characters 0-12:
+Warning:
+Benchmarking error: Connection to proving server refused at addresses
+::1:2223 (canonical: localhost)
+127.0.0.1:2223 (canonical: )
+File "./theories/Sorting/Sorted.v", line 79, characters 4-99:
+Warning:
+Tactician found a bug in it's tactical decomposition. Please report.
+split; [ induction 1 as [| a l [| ]] | induction 1 ]; auto
+ using Sorted, LocallySorted, HdRel
+split;
+ [ <recording::with_runtime_info@0> <genarg:wit_runtime_info>;
+    [ .. | idtac | destruct _tmp_tactician0 as [| ]; [ .. | idtac | idtac ] ]
+ | <recording::with_runtime_info@0>
+ <genarg:wit_runtime_info> ]; auto using Sorted, LocallySorted, HdRel
+
