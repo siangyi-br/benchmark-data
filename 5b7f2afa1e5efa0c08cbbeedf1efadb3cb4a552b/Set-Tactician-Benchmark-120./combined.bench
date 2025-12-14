@@ -1,0 +1,9 @@
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.Conjunction.proj1	120	11.962448	3	2
+coq-tactician-stdlib.8.11.dev	Coq.Init.Logic.rew_const	120	2.805902	1	1	0	synth with cache (only 1: refine (fun (v0 v1 : Type) (v2 v3 : v0) (v4 : v2 = v3) => match v4 as v6 in (_ = v5) return (forall v7 : v1, rew [fun v8 : v0 => v1] v6 in v7 = v7) with | eq_refl => fun v5 : v1 => eq_refl end)).
+coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZGcd.NZGcdProp.divide_0_r	120	10.923440	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Numbers.NatInt.NZGcd.NZGcdProp.gcd_eq_0_r	120	10.388059	2	1
+coq-tactician-stdlib.8.11.dev	Coq.Numbers.Natural.Peano.NPeano.Even_equiv	120	54.021943	4	2
+coq-tactician-stdlib.8.11.dev	Coq.MSets.MSetPositive.PositiveSet.lt_spec.ct_xce	120	38.295741	468	24
+coq-tactician-stdlib.8.11.dev	Coq.MSets.MSetPositive.PositiveSet.lt_spec.ct_lxl	120	37.974250	468	24
+coq-tactician-stdlib.8.11.dev	Coq.MSets.MSetPositive.PositiveSet.lt_spec.ct_xll	120	72.040014	468	24
+coq-tactician-stdlib.8.11.dev	Coq.MSets.MSetPositive.PositiveSet.exists_spec	120	24.688339	2	1
